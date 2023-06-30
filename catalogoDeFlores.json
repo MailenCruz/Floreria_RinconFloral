@@ -1,0 +1,541 @@
+[
+  {
+    "nombre": "Amapola",
+    "código": "123-001",
+    "color": "amarillo",
+    "origen": "Europa",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Caléndula",
+    "código": "123-002",
+    "color": "amarillo",
+    "origen": "Europa",
+    "precioPorUnidad": 600
+  },
+  {
+    "nombre": "Cardo amarillo",
+    "código": "123-003",
+    "color": "amarillo",
+    "origen": "Europa",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Celidonia",
+    "código": "123-004",
+    "color": "amarillo",
+    "origen": "Asia",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Diente de león",
+    "código": "123-005",
+    "color": "amarillo",
+    "origen": "Asia",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Girasol",
+    "código": "123-006",
+    "color": "amarillo",
+    "origen": "América",
+    "precioPorUnidad": 600
+  },
+  {
+    "nombre": "Lirio amarillo",
+    "código": "123-007",
+    "color": "amarillo",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Narciso",
+    "código": "123-008",
+    "color": "amarillo",
+    "origen": "Europa",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Rosa",
+    "código": "123-008",
+    "color": "amarillo",
+    "origen": "Asia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Tulipán",
+    "código": "123-009",
+    "color": "amarillo",
+    "origen": "Asia",
+    "precioPorUnidad": 1000
+  },
+  {
+    "nombre": "Agapanto",
+    "código": "124-001",
+    "color": "azul",
+    "origen": "Sudáfrica",
+    "precioPorUnidad": 1000
+  },
+  {
+    "nombre": "Alfalfa",
+    "código": "124-002",
+    "color": "azul",
+    "origen": "América",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Anémona",
+    "código": "124-003",
+    "color": "azul",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Campanelas",
+    "código": "124-004",
+    "color": "azul",
+    "origen": "América",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Campanilla azul",
+    "código": "124-005",
+    "color": "azul",
+    "origen": "África",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Cardo azul",
+    "código": "124-006",
+    "color": "azul",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Cártamo silvestre",
+    "código": "124-007",
+    "color": "azul",
+    "origen": "América",
+    "precioPorUnidad": 600
+  },
+  {
+    "nombre": "Hortensia",
+    "código": "124-008",
+    "color": "azul",
+    "origen": "Asia",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Iris",
+    "código": "124-009",
+    "color": "azul",
+    "origen": "Europa",
+    "precioPorUnidad": 400
+  },
+  {
+    "nombre": "Lirio de agua",
+    "código": "124-010",
+    "color": "azul",
+    "origen": "América",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Orquídea",
+    "código": "124-011",
+    "color": "azul",
+    "origen": "Australia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Acacia",
+    "código": "125-001",
+    "color": "blanco",
+    "origen": "Australia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Acebo",
+    "código": "125-002",
+    "color": "blanco",
+    "origen": "Europa",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Almendro",
+    "código": "125-003",
+    "color": "blanco",
+    "origen": "Asia",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Cala",
+    "código": "125-004",
+    "color": "blanco",
+    "origen": "África",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Campanilla",
+    "código": "125-005",
+    "color": "blanco",
+    "origen": "Europa",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Canónigo",
+    "código": "125-006",
+    "color": "blanco",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Clavel",
+    "código": "125-007",
+    "color": "blanco",
+    "origen": "Europa",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Dalia",
+    "código": "125-008",
+    "color": "blanco",
+    "origen": "América",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Endrino",
+    "código": "125-009",
+    "color": "blanco",
+    "origen": "Asia",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Hortensia",
+    "código": "125-010",
+    "color": "blanco",
+    "origen": "Asia",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Jazmín",
+    "código": "125-011",
+    "color": "blanco",
+    "origen": "Asia",
+    "precioPorUnidad": 1000
+  },
+  {
+    "nombre": "Madreselva",
+    "código": "125-012",
+    "color": "blanco",
+    "origen": "Europa",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Margarita",
+    "código": "125-013",
+    "color": "blanco",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Nenúfar",
+    "código": "125-014",
+    "color": "blanco",
+    "origen": "África",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Orquídea",
+    "código": "125-015",
+    "color": "blanco",
+    "origen": "Australia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Rosa",
+    "código": "125-016",
+    "color": "blanco",
+    "origen": "Asia",
+    "precioPorUnidad": 1200
+  },
+  {
+    "nombre": "Sauco",
+    "código": "125-017",
+    "color": "blanco",
+    "origen": "América",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Achicoria",
+    "código": "126-001",
+    "color": "lila",
+    "origen": "África",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Becerrilla",
+    "código": "126-002",
+    "color": "lila",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Lavanda",
+    "código": "126-003",
+    "color": "lila",
+    "origen": "Europa",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Orquídea",
+    "código": "126-004",
+    "color": "lila",
+    "origen": "Australia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Petunia",
+    "código": "126-005",
+    "color": "lila",
+    "origen": "América",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Violeta",
+    "código": "126-006",
+    "color": "lila",
+    "origen": "Asia",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Azafrán",
+    "código": "127-001",
+    "color": "morado",
+    "origen": "Asia",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Dalia",
+    "código": "127-002",
+    "color": "morado",
+    "origen": "América",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Iris",
+    "código": "127-003",
+    "color": "morado",
+    "origen": "Europa",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Pensamiento",
+    "código": "127-004",
+    "color": "morado",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Petunia",
+    "código": "127-005",
+    "color": "morado",
+    "origen": "América",
+    "precioPorUnidad": 600
+  },
+  {
+    "nombre": "Tulipán",
+    "código": "127-006",
+    "color": "morado",
+    "origen": "Asia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Clavel",
+    "código": "128-001",
+    "color": "naranja",
+    "origen": "Asia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Clivias",
+    "código": "128-002",
+    "color": "naranja",
+    "origen": "África",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Dalia",
+    "código": "128-003",
+    "color": "naranja",
+    "origen": "América",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Iris",
+    "código": "128-004",
+    "color": "naranja",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Jazmín",
+    "código": "128-005",
+    "color": "naranja",
+    "origen": "Asia",
+    "precioPorUnidad": 1000
+  },
+  {
+    "nombre": "Amapola",
+    "código": "129-001",
+    "color": "rojo",
+    "origen": "Europa",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Camelia",
+    "código": "129-002",
+    "color": "rojo",
+    "origen": "Asia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Clavel",
+    "código": "129-003",
+    "color": "rojo",
+    "origen": "Asia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Dalia",
+    "código": "129-004",
+    "color": "rojo",
+    "origen": "América",
+    "precioPorUnidad": 700
+  },
+  {
+    "nombre": "Geranio",
+    "código": "129-005",
+    "color": "rojo",
+    "origen": "África",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Gladiolo",
+    "código": "129-006",
+    "color": "rojo",
+    "origen": "África",
+    "precioPorUnidad": 600
+  },
+  {
+    "nombre": "Pensamiento",
+    "código": "129-007",
+    "color": "rojo",
+    "origen": "Europa",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Petunia",
+    "código": "129-008",
+    "color": "rojo",
+    "origen": "América",
+    "precioPorUnidad": 1000
+  },
+  {
+    "nombre": "Rosa",
+    "código": "129-009",
+    "color": "rojo",
+    "origen": "Asia",
+    "precioPorUnidad": 1500
+  },
+  {
+    "nombre": "Tulipán",
+    "código": "129-010",
+    "color": "rojo",
+    "origen": "Asia",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Azalea",
+    "código": "130-001",
+    "color": "rosa",
+    "origen": "Asia",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Azucena",
+    "código": "130-002",
+    "color": "rosa",
+    "origen": "América",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Brezo",
+    "código": "130-003",
+    "color": "rosa",
+    "origen": "África",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Camelia",
+    "código": "130-004",
+    "color": "rosa",
+    "origen": "Asia",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Clavel",
+    "código": "130-005",
+    "color": "rosa",
+    "origen": "Asia",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Geranio",
+    "código": "130-006",
+    "color": "rosa",
+    "origen": "África",
+    "precioPorUnidad": 500
+  },
+  {
+    "nombre": "Gladiolo",
+    "código": "130-007",
+    "color": "rosa",
+    "origen": "África",
+    "precioPorUnidad": 600
+  },
+  {
+    "nombre": "Hortensia",
+    "código": "130-008",
+    "color": "rosa",
+    "origen": "Asia",
+    "precioPorUnidad": 800
+  },
+  {
+    "nombre": "Orquídea",
+    "código": "130-009",
+    "color": "rosa",
+    "origen": "Australia",
+    "precioPorUnidad": 1000
+  },
+  {
+    "nombre": "Pensamiento",
+    "código": "130-010",
+    "color": "rosa",
+    "origen": "Europa",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Petunia",
+    "código": "130-011",
+    "color": "rosa",
+    "origen": "América",
+    "precioPorUnidad": 900
+  },
+  {
+    "nombre": "Uña de gato",
+    "código": "130-012",
+    "color": "rosa",
+    "origen": "América",
+    "precioPorUnidad": 800
+  }
+]
